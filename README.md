@@ -6,8 +6,8 @@ Duration:May to july
 Mentor:Nela santhosh kumar  
 OVERVIEW OF THE PROJECT
 # *Project Overview: Home Automation with Bluetooth*
-CIRCUIT DIAGRAM:![WhatsApp Image 2025-06-26 at 18 44 01_7c03facc](https://github.com/user-attachments/assets/cfd2e09a-021a-4fdf-9672-cd413e02bbea)
-Working demo of Home automation with bluetooth:https://drive.google.com/file/d/0B_mU1cI7wXgrRUd4S1RrT0dXbzA/view?resourcekey=0-e7zyt5v9Ernnw4SuNxAMiQ
+CIRCUIT DIAGRAM: ![WhatsApp Image 2025-06-26 at 18 44 01_7c03facc](https://github.com/user-attachments/assets/cfd2e09a-021a-4fdf-9672-cd413e02bbea)
+ Working demo of Home automation with bluetooth:https://drive.google.com/file/d/0B_mU1cI7wXgrRUd4S1RrT0dXbzA/view?resourcekey=0-e7zyt5v9Ernnw4SuNxAMiQ
 ## *1. Introduction*
 Home Automation with Bluetooth is a smart system designed to control household appliances and devices wirelessly using Bluetooth technology. This project allows users to manage lights, fans, and other electronic devices via a smartphone app, providing convenience, energy efficiency, and security.
 
